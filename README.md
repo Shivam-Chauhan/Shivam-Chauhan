@@ -9,10 +9,6 @@
 
 - ⚡ Fun fact **I can watch you!!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/venom12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="venom12" height="30" width="40" /></a>
@@ -20,7 +16,6 @@
 <a href="https://www.hackerrank.com/shivamchauhan121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamchauhan121" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivamchauhan121999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamchauhan121999" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivamchauhan121999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivamchauhan121999" height="30" width="40" /></a>
-<a href="/https://cppsecrets.com/user/index.php?uid=11795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cppsecrets.com/user/index.php?uid=11795" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-chauhan&show_icons=true&locale=en" alt="shivam-chauhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-chauhan&" alt="shivam-chauhan" /></p>
-
