@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://cppsecrets.com/user/index.php?uid=11795](https://cppsecrets.com/user/index.php?uid=11795)
 
-- 📫 How to reach me **shivamchauhan121999@gmail.com**
-
 - ⚡ Fun fact **I can watch you!!**
 
 <h3 align="left">Connect with me:</h3>
